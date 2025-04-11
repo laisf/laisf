@@ -1,7 +1,5 @@
-## Hi there 👋
 
-<!--
-
+💼 Resumo Profissional:
 Trabalho com testes e qualidade de software desde 2019. Sou certificado pela ISTQB (CTFL) e possuo pós-graduação em Engenharia de Software. Atualmente, estou ampliando meus conhecimentos com uma segunda pós-graduação, agora focada em Automação de Testes.
 
 🔭 Atualmente estou trabalhando em:
@@ -37,4 +35,4 @@ linkedin.com/in/lais-formiga-guerra
 
 🎯 Objetivo:
 Além de querer continuar aprendendo e melhorando, tenho como objetivo transformar testes repetitivos em automações eficientes, que tragam mais segurança, velocidade e confiança para os times de desenvolvimento.
--->
+
